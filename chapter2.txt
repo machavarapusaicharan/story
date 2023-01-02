@@ -2,3 +2,7 @@ THis is a second test file created for Git. this is a test file for Git. Second 
 second file. 
 second file.
 second file.
+
+updating second file for new plot in the story. this is a twist in the story.
+This a second file update.
+

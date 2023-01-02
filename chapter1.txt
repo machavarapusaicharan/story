@@ -1,1 +1,2 @@
 This is chapter 1 text file created for git. This is a test file for Git.
+updating file for new plot in the story. 
